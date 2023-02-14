@@ -81,3 +81,9 @@ body{
     width: 982px;
     position: absolute;
 }
+.end{
+    position: relative;
+    top: 350px;
+    margin-bottom: 100px;
+    
+}
