@@ -1,0 +1,83 @@
+body{
+    background-color: black;
+
+}
+* {
+    margin: 0;
+    font-family: 'Raleway', sans-serif;
+}
+.textttt{
+    background-color: rgb(41, 39, 39);
+}
+.t{
+    color: rgb(255, 191, 73);
+}
+.value{
+    font-size: 100px;
+    color: rgb(255, 0, 0);
+    margin-bottom: 30px;
+}
+.hello-text{
+    font-size: 60px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    color: rgb(250, 168, 15);
+}
+.about-text{
+    display: block;
+    align-self: center;
+    width: 100%;
+}
+.under-about{
+    color: rgb(253, 169, 11);
+}
+.textt{
+    text-align: center;
+}
+.img-1{
+    margin-top: 50px;
+    margin-bottom: 10px;
+    width: 800px;
+}
+.container-w{
+    margin-top: 15px;
+    position: relative;
+    height: 645px;
+}
+.img-2{
+    top: 145px;
+    width: 600px;
+    z-index: 4;
+    position: absolute;
+    right: 20px;
+}
+.img-3{
+    left: 20px;
+    width: 600px;
+    position: absolute;
+    z-index: 3;
+}
+.text-align{
+    text-align: center;
+}
+
+
+.container-call{
+    position: relative;
+    height: 1000px;
+}
+.call-text{
+    margin-top: 30px;
+    position: absolute;
+    font-size: 80px;
+    color: black;
+    font-weight: 1000;
+}
+.tel{
+    color: rgb(66, 46, 46);
+    text-decoration: none;
+}
+.img-4{
+    width: 982px;
+    position: absolute;
+}
